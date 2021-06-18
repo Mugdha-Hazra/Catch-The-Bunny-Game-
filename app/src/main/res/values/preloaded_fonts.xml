@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allan_bold</item>
+        <item>@font/almendra</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/arizonia</item>
+        <item>@font/autour_one</item>
+        <item>@font/bangers</item>
+        <item>@font/bevan</item>
+        <item>@font/bungee_shade</item>
+    </array>
+</resources>
