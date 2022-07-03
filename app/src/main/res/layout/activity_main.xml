@@ -47,7 +47,7 @@
                 android:layout_height="100dp"
                 android:layout_weight="1"
                 android:onClick="increaseScore"
-                app:srcCompat="@drawable/a" />
+                app:srcCompat="@drawable/dp" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -121,7 +121,7 @@
                 android:layout_height="100dp"
                 android:layout_weight="1"
                 android:onClick="increaseScore"
-                app:srcCompat="@drawable/imagecute" />
+                app:srcCompat="@drawable/epic" />
         </TableRow>
 
         <TableRow
@@ -160,7 +160,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/almendra"
-        android:text="Welcome!!"
+        android:text="Welcome Dear!!"
         android:textAlignment="center"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
@@ -173,8 +173,8 @@
 
     <TextView
         android:id="@+id/scoreText"
-        android:layout_width="211dp"
-        android:layout_height="44dp"
+        android:layout_width="332dp"
+        android:layout_height="56dp"
         android:fontFamily="@font/bevan"
         android:text="Score : 0"
         android:textAlignment="center"
@@ -202,6 +202,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.96" />
+        app:layout_constraintVertical_bias="0.956" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
